@@ -1,4 +1,4 @@
-# Custom Eslint
+# Mi Custom ESLint
 
 ##### Agregar cuaquiera de estas dos opciones en la parte final del archivo '.eslintrc' que está al nivel del proyecto, con esta configuración perzonalizada nos permitirá desactivar la regla "react/prop-types" para todos los archivos con extensión .js y .jsx en el proyecto.
 
